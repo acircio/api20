@@ -22,30 +22,6 @@ The production website frontend source is not included in this repository.
 
 https://api20.xyz
 
-## Community Token — $API20
-
-**$API20** is the community token for API20 — live on **Base**. It exists to help grow the ecosystem around x402 API discovery, builder tooling, and agent-ready payment workflows on Base.
-
-Holding or trading $API20 is optional and not required to use the website, docs, or planned CLI. If you choose to participate, do your own research and only use funds you can afford to lose.
-
-| | |
-|---|---|
-| **Network** | Base |
-| **Symbol** | `$API20` |
-| **Contract** | `0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3` |
-
-### Trade $API20
-
-| Platform | Link |
-|----------|------|
-| BANKR | [bankr.bot/terminal](https://bankr.bot/terminal/discover/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
-| GMGN.AI | [gmgn.ai/base/token](https://gmgn.ai/base/token/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
-| Uniswap | [Swap on Uniswap](https://app.uniswap.org/swap?chain=base&outputCurrency=0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
-| Dexscreener | [Chart on Dexscreener](https://dexscreener.com/base/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
-| PancakeSwap | [Swap on PancakeSwap](https://pancakeswap.finance/swap?chain=base&outputCurrency=0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
-
-Follow **[@tryAPI20 on X](https://x.com/tryAPI20)** for token updates, launches, and project news.
-
 ## Repository Scope
 
 This public repository contains documentation, examples, schemas, roadmap notes, and public project references.
