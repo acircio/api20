@@ -38,7 +38,7 @@ Holding or trading $API20 is optional and not required to use the website, docs,
 
 | Platform | Link |
 |----------|------|
-| BANKR | [bankr.bot/launches](https://bankr.bot/terminal/discover/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
+| BANKR | [bankr.bot/terminal](https://bankr.bot/terminal/discover/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
 | GMGN.AI | [gmgn.ai/base/token](https://gmgn.ai/base/token/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
 | Uniswap | [Swap on Uniswap](https://app.uniswap.org/swap?chain=base&outputCurrency=0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
 | Dexscreener | [Chart on Dexscreener](https://dexscreener.com/base/0x6049ef9dfb6186a87fe2e5643902cd90ba9f5ba3) |
